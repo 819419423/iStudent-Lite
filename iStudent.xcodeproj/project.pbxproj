@@ -7,6 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F1BEBCA18982AF400BD5D8D /* Calendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F1BEBC918982AF400BD5D8D /* Calendar.m */; };
+		0F1BEBD11898397C00BD5D8D /* DJKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F1BEBD01898397C00BD5D8D /* DJKeyboard.m */; };
+		0F1BEC1918985E7000BD5D8D /* DJDataPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F1BEC1818985E7000BD5D8D /* DJDataPicker.m */; };
+		0F21D21C18975EC100AAA8C4 /* semester_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21D21B18975EC100AAA8C4 /* semester_bg.png */; };
+		0F21D2201897643500AAA8C4 /* semester_separator.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21D21F1897643500AAA8C4 /* semester_separator.png */; };
+		0F21D2321897725B00AAA8C4 /* semester_cell_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21D2311897725B00AAA8C4 /* semester_cell_bg.png */; };
+		0F21D2341897732F00AAA8C4 /* semester_info.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21D2331897732F00AAA8C4 /* semester_info.png */; };
+		0F21D2361897745100AAA8C4 /* semester_bookmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F21D2351897745100AAA8C4 /* semester_bookmark.png */; };
+		0F23BD21189A17DF00F4A69A /* courses_checked.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F23BD1F189A17DF00F4A69A /* courses_checked.png */; };
+		0F23BD22189A17DF00F4A69A /* courses_unchecked.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F23BD20189A17DF00F4A69A /* courses_unchecked.png */; };
+		0F23BD25189A28A400F4A69A /* CoursesDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F23BD24189A28A400F4A69A /* CoursesDetailsViewController.m */; };
+		0F25E4D21898DE7200C599D4 /* semester_clip.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F25E4D11898DE7200C599D4 /* semester_clip.png */; };
+		0F25E4D61898E89E00C599D4 /* CoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F25E4D51898E89E00C599D4 /* CoursesViewController.m */; };
+		0F25E4DA1898EA3500C599D4 /* CoursesCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F25E4D91898EA3500C599D4 /* CoursesCell.m */; };
+		0F25E4DC1898EDC700C599D4 /* semester_detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F25E4DB1898EDC700C599D4 /* semester_detail.png */; };
+		0F33D720189C768100862440 /* Courses.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F33D71F189C768100862440 /* Courses.m */; };
+		0F33D723189C768100862440 /* Semester.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F33D722189C768100862440 /* Semester.m */; };
+		0F3C9A491892624D003D71E0 /* SemesterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F3C9A481892624D003D71E0 /* SemesterViewController.m */; };
+		0F3C9A53189273FB003D71E0 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F3C9A52189273FB003D71E0 /* bg.png */; };
+		0F3C9A551892757E003D71E0 /* shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F3C9A541892757E003D71E0 /* shadow.png */; };
+		0F3C9A57189276F3003D71E0 /* up_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F3C9A56189276F3003D71E0 /* up_bg.png */; };
+		0F418C821896535800E524C9 /* semester_trans_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C811896535800E524C9 /* semester_trans_bg.png */; };
+		0F418C841896549A00E524C9 /* semester_add_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C831896549A00E524C9 /* semester_add_button.png */; };
+		0F418C87189655EF00E524C9 /* semester_blue_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C85189655EF00E524C9 /* semester_blue_bar.png */; };
+		0F418C88189655EF00E524C9 /* semester_green_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C86189655EF00E524C9 /* semester_green_bar.png */; };
+		0F418C8D1896599700E524C9 /* semester_4_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C891896599700E524C9 /* semester_4_bg.png */; };
+		0F418C8E1896599700E524C9 /* semester_2_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C8A1896599700E524C9 /* semester_2_bg.png */; };
+		0F418C8F1896599700E524C9 /* semester_3_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C8B1896599700E524C9 /* semester_3_bg.png */; };
+		0F418C901896599700E524C9 /* semester_1_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F418C8C1896599700E524C9 /* semester_1_bg.png */; };
+		0F56C180189384F400A24981 /* left_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C17F189384F400A24981 /* left_arrow.png */; };
+		0F56C1821893852400A24981 /* right_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C1811893852400A24981 /* right_arrow.png */; };
+		0F56C18B18938D0C00A24981 /* free.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C18818938D0C00A24981 /* free.png */; };
+		0F56C18D18938D0C00A24981 /* today.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C18A18938D0C00A24981 /* today.png */; };
+		0F56C1911893907500A24981 /* CalendarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F56C1901893907500A24981 /* CalendarCell.m */; };
+		0F56C196189393D600A24981 /* busy.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C195189393D600A24981 /* busy.png */; };
+		0F56C19A189397E500A24981 /* calendar_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C199189397E500A24981 /* calendar_bg.png */; };
+		0F56C19C18939A3700A24981 /* busy_dates.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C19B18939A3700A24981 /* busy_dates.png */; };
+		0F56C19E18939C4A00A24981 /* dates_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F56C19D18939C4A00A24981 /* dates_bg.png */; };
+		0F56C1A21893A60700A24981 /* NSDate+Reporting.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F56C1A11893A60700A24981 /* NSDate+Reporting.m */; };
+		0F8EDFA818963D0C006D990C /* semester_bottom_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F8EDFA718963D0C006D990C /* semester_bottom_bg.png */; };
+		0F8EDFAA18963DB0006D990C /* semester_horizontal_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F8EDFA918963DB0006D990C /* semester_horizontal_bar.png */; };
+		0F8EDFAC18963EF1006D990C /* semester_red_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F8EDFAB18963EF1006D990C /* semester_red_bar.png */; };
+		0F8EDFB018964015006D990C /* SemesterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F8EDFAF18964015006D990C /* SemesterCell.m */; };
+		0FB6C5FB18932EAF00775EF2 /* CalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB6C5FA18932EAF00775EF2 /* CalendarViewController.m */; };
+		0FB6C6011893353700775EF2 /* month_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FB6C6001893353700775EF2 /* month_bg.png */; };
+		0FB6C6041893365B00775EF2 /* right_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FB6C6021893365B00775EF2 /* right_arrow@2x.png */; };
+		0FB6C6051893365B00775EF2 /* left_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FB6C6031893365B00775EF2 /* left_arrow@2x.png */; };
+		0FC629E71893447000D08617 /* bottom_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC629E61893447000D08617 /* bottom_bg@2x.png */; };
+		0FC629E9189344A300D08617 /* bottom_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC629E8189344A300D08617 /* bottom_bg.png */; };
+		0FC629EB1893459B00D08617 /* calendar_divider@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC629EA1893459B00D08617 /* calendar_divider@2x.png */; };
+		0FC629ED189345B800D08617 /* calendar_divider.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC629EC189345B800D08617 /* calendar_divider.png */; };
+		0FD1B0581897794F0053034B /* semester_more.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B0571897794F0053034B /* semester_more.png */; };
+		0FD1B05B18977A930053034B /* semester_edit_lock.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B05918977A930053034B /* semester_edit_lock.png */; };
+		0FD1B05C18977A930053034B /* semester_edit_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B05A18977A930053034B /* semester_edit_open.png */; };
+		0FD1B05E18977E550053034B /* semester_expand.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B05D18977E550053034B /* semester_expand.png */; };
+		0FD1B064189782DE0053034B /* WYPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FD1B061189782DE0053034B /* WYPopoverController.m */; };
+		0FD1B065189782DE0053034B /* WYStoryboardPopoverSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FD1B063189782DE0053034B /* WYStoryboardPopoverSegue.m */; };
+		0FD1B068189785EB0053034B /* SemesterDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FD1B067189785EB0053034B /* SemesterDetailsViewController.m */; };
+		0FD1B06A189788F00053034B /* semester_detail_folder in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B069189788F00053034B /* semester_detail_folder */; };
+		0FD1B06C18978AAA0053034B /* semester_detail_textfield.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B06B18978AAA0053034B /* semester_detail_textfield.png */; };
+		0FD1B075189796FD0053034B /* SemesterNoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FD1B074189796FD0053034B /* SemesterNoCell.m */; };
+		0FD1B07718979A9A0053034B /* semester_like.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD1B07618979A9A0053034B /* semester_like.png */; };
 		CD0F950617D817320050BEAA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD0F950517D817320050BEAA /* Foundation.framework */; };
 		CD0F950817D817320050BEAA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD0F950717D817320050BEAA /* CoreGraphics.framework */; };
 		CD0F950A17D817320050BEAA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD0F950917D817320050BEAA /* UIKit.framework */; };
@@ -22,6 +84,56 @@
 		CD0F952717D817320050BEAA /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD0F950B17D817320050BEAA /* CoreData.framework */; };
 		CD0F952F17D817320050BEAA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD0F952D17D817320050BEAA /* InfoPlist.strings */; };
 		CD0F953117D817320050BEAA /* iStudentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F953017D817320050BEAA /* iStudentTests.m */; };
+		CD0F953F17D818AE0050BEAA /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0F953E17D818AE0050BEAA /* Storyboard.storyboard */; };
+		CD0F954717D81A5E0050BEAA /* PrettyDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F954317D81A5E0050BEAA /* PrettyDrawing.m */; };
+		CD0F954817D81A5E0050BEAA /* PrettyNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F954617D81A5E0050BEAA /* PrettyNavigationBar.m */; };
+		CD0F954F17D820240050BEAA /* ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F954E17D820240050BEAA /* ECSlidingViewController.m */; };
+		CD0F955317D8211E0050BEAA /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F955217D8211E0050BEAA /* LeftMenuViewController.m */; };
+		CD0F955617D821E60050BEAA /* InitialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F955517D821E60050BEAA /* InitialViewController.m */; };
+		CD0F956017D823B60050BEAA /* UIImage+ImageWithUIView.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F955F17D823B60050BEAA /* UIImage+ImageWithUIView.m */; };
+		CD0F956817D8320A0050BEAA /* LeftMenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F956717D8320A0050BEAA /* LeftMenuCell.m */; };
+		CD0F958217D845B80050BEAA /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = CD0F958117D845B80050BEAA /* settings.png */; };
+		CD1B0371180F8A31005A81BE /* weather.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1B0370180F8A31005A81BE /* weather.png */; };
+		CD1B0373180F8A8F005A81BE /* grade.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1B0372180F8A8F005A81BE /* grade.png */; };
+		CD1B0375180F8B10005A81BE /* travel.png in Resources */ = {isa = PBXBuildFile; fileRef = CD1B0374180F8B10005A81BE /* travel.png */; };
+		CD38AB4417FA630C00499D04 /* toolbar.png in Resources */ = {isa = PBXBuildFile; fileRef = CD38AB4217FA630C00499D04 /* toolbar.png */; };
+		CD38AB4517FA630C00499D04 /* toolbar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD38AB4317FA630C00499D04 /* toolbar@2x.png */; };
+		CD38AB4717FA63FE00499D04 /* transpBlack50.png in Resources */ = {isa = PBXBuildFile; fileRef = CD38AB4617FA63FE00499D04 /* transpBlack50.png */; };
+		CD38AB4917FA64E600499D04 /* transpBlack25.png in Resources */ = {isa = PBXBuildFile; fileRef = CD38AB4817FA64E600499D04 /* transpBlack25.png */; };
+		CD3DF86817DCFF44006E7BE6 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = CD3DF86717DCFF44006E7BE6 /* MBProgressHUD.m */; };
+		CD487B3918010F580026557F /* table_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = CD487B3718010F580026557F /* table_bg.png */; };
+		CD487B3A18010F580026557F /* table_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD487B3818010F580026557F /* table_bg@2x.png */; };
+		CD487B3D1801119B0026557F /* nav_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = CD487B3B1801119B0026557F /* nav_bg.png */; };
+		CD487B3E1801119B0026557F /* nav_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD487B3C1801119B0026557F /* nav_bg@2x.png */; };
+		CD5BDCAD17D96B2800025F3E /* bills.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCAC17D96B2800025F3E /* bills.png */; };
+		CD5BDCAF17D96E0900025F3E /* budget.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCAE17D96E0900025F3E /* budget.png */; };
+		CD5BDCB317D973A500025F3E /* life_calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCB217D973A500025F3E /* life_calendar.png */; };
+		CD5BDCB517D9740300025F3E /* to_do_list.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCB417D9740300025F3E /* to_do_list.png */; };
+		CD5BDCB917D974DF00025F3E /* journal.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCB817D974DF00025F3E /* journal.png */; };
+		CD5BDCBB17D975FF00025F3E /* shopping.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCBA17D975FF00025F3E /* shopping.png */; };
+		CD5BDCBD17D9760700025F3E /* reports.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCBC17D9760700025F3E /* reports.png */; };
+		CD5BDCBF17D9783300025F3E /* course.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCBE17D9783300025F3E /* course.png */; };
+		CD5BDCC117D9783800025F3E /* terms.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCC017D9783800025F3E /* terms.png */; };
+		CD5BDCC917D9799100025F3E /* schedule.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCC817D9799100025F3E /* schedule.png */; };
+		CD5BDCCD17D979DB00025F3E /* homework.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCCC17D979DB00025F3E /* homework.png */; };
+		CD5BDCD117D9800A00025F3E /* iStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = CD5BDCD017D9800A00025F3E /* iStudent.m */; };
+		CD5BDCD817D9882F00025F3E /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCD617D9882F00025F3E /* background.png */; };
+		CD5BDCD917D9882F00025F3E /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5BDCD717D9882F00025F3E /* background@2x.png */; };
+		CD84A60017DEBD150030295A /* calendarCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = CD84A5FE17DEBD150030295A /* calendarCircle.png */; };
+		CD84A60117DEBD150030295A /* calendarCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD84A5FF17DEBD150030295A /* calendarCircle@2x.png */; };
+		CD898DEF17EA8F0300507971 /* bookmark.png in Resources */ = {isa = PBXBuildFile; fileRef = CD898DEE17EA8F0300507971 /* bookmark.png */; };
+		CD898DF117EA8FA000507971 /* refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = CD898DF017EA8FA000507971 /* refresh.png */; };
+		CD898DF317EA91A300507971 /* forward.png in Resources */ = {isa = PBXBuildFile; fileRef = CD898DF217EA91A300507971 /* forward.png */; };
+		CD898DF517EA91C700507971 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = CD898DF417EA91C700507971 /* back.png */; };
+		CD9A87B817DEAB730016009B /* CKCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = CD9A87B617DEAB730016009B /* CKCalendarView.m */; };
+		CD9EFD4D181F415A00EF6492 /* setLocation.png in Resources */ = {isa = PBXBuildFile; fileRef = CD9EFD4B181F415A00EF6492 /* setLocation.png */; };
+		CD9EFD4E181F415A00EF6492 /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = CD9EFD4C181F415A00EF6492 /* location.png */; };
+		CDAE14B31818A3A60071F8A5 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = CDAE14B21818A3A60071F8A5 /* cloud.png */; };
+		CDAE14B51818AD0A0071F8A5 /* transpBlack75.png in Resources */ = {isa = PBXBuildFile; fileRef = CDAE14B41818AD0A0071F8A5 /* transpBlack75.png */; };
+		CDAE14C61818BBC80071F8A5 /* WebServiceObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CDAE14C51818BBC80071F8A5 /* WebServiceObject.m */; };
+		CDAE816717DD84B60086BA3A /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = CDAE816517DD84B60086BA3A /* check.png */; };
+		CDAE816817DD84B60086BA3A /* check@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDAE816617DD84B60086BA3A /* check@2x.png */; };
+		CDB01A22181A123C00060A42 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDB01A21181A123C00060A42 /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +147,85 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F1BEBC818982AF400BD5D8D /* Calendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calendar.h; sourceTree = "<group>"; };
+		0F1BEBC918982AF400BD5D8D /* Calendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calendar.m; sourceTree = "<group>"; };
+		0F1BEBCF1898397C00BD5D8D /* DJKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DJKeyboard.h; sourceTree = "<group>"; };
+		0F1BEBD01898397C00BD5D8D /* DJKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DJKeyboard.m; sourceTree = "<group>"; };
+		0F1BEC1718985E7000BD5D8D /* DJDataPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DJDataPicker.h; sourceTree = "<group>"; };
+		0F1BEC1818985E7000BD5D8D /* DJDataPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DJDataPicker.m; sourceTree = "<group>"; };
+		0F21D21B18975EC100AAA8C4 /* semester_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_bg.png; sourceTree = "<group>"; };
+		0F21D21F1897643500AAA8C4 /* semester_separator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_separator.png; sourceTree = "<group>"; };
+		0F21D2311897725B00AAA8C4 /* semester_cell_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_cell_bg.png; sourceTree = "<group>"; };
+		0F21D2331897732F00AAA8C4 /* semester_info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_info.png; sourceTree = "<group>"; };
+		0F21D2351897745100AAA8C4 /* semester_bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_bookmark.png; sourceTree = "<group>"; };
+		0F23BD1F189A17DF00F4A69A /* courses_checked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = courses_checked.png; sourceTree = "<group>"; };
+		0F23BD20189A17DF00F4A69A /* courses_unchecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = courses_unchecked.png; sourceTree = "<group>"; };
+		0F23BD23189A28A400F4A69A /* CoursesDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoursesDetailsViewController.h; sourceTree = "<group>"; };
+		0F23BD24189A28A400F4A69A /* CoursesDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoursesDetailsViewController.m; sourceTree = "<group>"; };
+		0F25E4D11898DE7200C599D4 /* semester_clip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_clip.png; sourceTree = "<group>"; };
+		0F25E4D41898E89E00C599D4 /* CoursesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoursesViewController.h; sourceTree = "<group>"; };
+		0F25E4D51898E89E00C599D4 /* CoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoursesViewController.m; sourceTree = "<group>"; };
+		0F25E4D81898EA3500C599D4 /* CoursesCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoursesCell.h; sourceTree = "<group>"; };
+		0F25E4D91898EA3500C599D4 /* CoursesCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoursesCell.m; sourceTree = "<group>"; };
+		0F25E4DB1898EDC700C599D4 /* semester_detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_detail.png; sourceTree = "<group>"; };
+		0F33D71E189C768100862440 /* Courses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Courses.h; sourceTree = "<group>"; };
+		0F33D71F189C768100862440 /* Courses.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Courses.m; sourceTree = "<group>"; };
+		0F33D721189C768100862440 /* Semester.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Semester.h; sourceTree = "<group>"; };
+		0F33D722189C768100862440 /* Semester.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Semester.m; sourceTree = "<group>"; };
+		0F3C9A471892624D003D71E0 /* SemesterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemesterViewController.h; sourceTree = "<group>"; };
+		0F3C9A481892624D003D71E0 /* SemesterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemesterViewController.m; sourceTree = "<group>"; };
+		0F3C9A52189273FB003D71E0 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		0F3C9A541892757E003D71E0 /* shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadow.png; sourceTree = "<group>"; };
+		0F3C9A56189276F3003D71E0 /* up_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = up_bg.png; sourceTree = "<group>"; };
+		0F418C811896535800E524C9 /* semester_trans_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_trans_bg.png; sourceTree = "<group>"; };
+		0F418C831896549A00E524C9 /* semester_add_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_add_button.png; sourceTree = "<group>"; };
+		0F418C85189655EF00E524C9 /* semester_blue_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_blue_bar.png; sourceTree = "<group>"; };
+		0F418C86189655EF00E524C9 /* semester_green_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_green_bar.png; sourceTree = "<group>"; };
+		0F418C891896599700E524C9 /* semester_4_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_4_bg.png; sourceTree = "<group>"; };
+		0F418C8A1896599700E524C9 /* semester_2_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_2_bg.png; sourceTree = "<group>"; };
+		0F418C8B1896599700E524C9 /* semester_3_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_3_bg.png; sourceTree = "<group>"; };
+		0F418C8C1896599700E524C9 /* semester_1_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_1_bg.png; sourceTree = "<group>"; };
+		0F56C17F189384F400A24981 /* left_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left_arrow.png; sourceTree = "<group>"; };
+		0F56C1811893852400A24981 /* right_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right_arrow.png; sourceTree = "<group>"; };
+		0F56C18818938D0C00A24981 /* free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = free.png; sourceTree = "<group>"; };
+		0F56C18A18938D0C00A24981 /* today.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = today.png; sourceTree = "<group>"; };
+		0F56C18F1893907500A24981 /* CalendarCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarCell.h; sourceTree = "<group>"; };
+		0F56C1901893907500A24981 /* CalendarCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarCell.m; sourceTree = "<group>"; };
+		0F56C195189393D600A24981 /* busy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = busy.png; sourceTree = "<group>"; };
+		0F56C199189397E500A24981 /* calendar_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar_bg.png; sourceTree = "<group>"; };
+		0F56C19B18939A3700A24981 /* busy_dates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = busy_dates.png; sourceTree = "<group>"; };
+		0F56C19D18939C4A00A24981 /* dates_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dates_bg.png; sourceTree = "<group>"; };
+		0F56C1A01893A60700A24981 /* NSDate+Reporting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Reporting.h"; sourceTree = "<group>"; };
+		0F56C1A11893A60700A24981 /* NSDate+Reporting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Reporting.m"; sourceTree = "<group>"; };
+		0F8EDFA718963D0C006D990C /* semester_bottom_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_bottom_bg.png; sourceTree = "<group>"; };
+		0F8EDFA918963DB0006D990C /* semester_horizontal_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_horizontal_bar.png; sourceTree = "<group>"; };
+		0F8EDFAB18963EF1006D990C /* semester_red_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_red_bar.png; sourceTree = "<group>"; };
+		0F8EDFAE18964015006D990C /* SemesterCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemesterCell.h; sourceTree = "<group>"; };
+		0F8EDFAF18964015006D990C /* SemesterCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemesterCell.m; sourceTree = "<group>"; };
+		0FB6C5F918932EAF00775EF2 /* CalendarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarViewController.h; sourceTree = "<group>"; };
+		0FB6C5FA18932EAF00775EF2 /* CalendarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarViewController.m; sourceTree = "<group>"; };
+		0FB6C6001893353700775EF2 /* month_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = month_bg.png; sourceTree = "<group>"; };
+		0FB6C6021893365B00775EF2 /* right_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_arrow@2x.png"; sourceTree = "<group>"; };
+		0FB6C6031893365B00775EF2 /* left_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left_arrow@2x.png"; sourceTree = "<group>"; };
+		0FC629E61893447000D08617 /* bottom_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bottom_bg@2x.png"; sourceTree = "<group>"; };
+		0FC629E8189344A300D08617 /* bottom_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottom_bg.png; sourceTree = "<group>"; };
+		0FC629EA1893459B00D08617 /* calendar_divider@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "calendar_divider@2x.png"; sourceTree = "<group>"; };
+		0FC629EC189345B800D08617 /* calendar_divider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar_divider.png; sourceTree = "<group>"; };
+		0FD1B0571897794F0053034B /* semester_more.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_more.png; sourceTree = "<group>"; };
+		0FD1B05918977A930053034B /* semester_edit_lock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_edit_lock.png; sourceTree = "<group>"; };
+		0FD1B05A18977A930053034B /* semester_edit_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_edit_open.png; sourceTree = "<group>"; };
+		0FD1B05D18977E550053034B /* semester_expand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_expand.png; sourceTree = "<group>"; };
+		0FD1B060189782DE0053034B /* WYPopoverController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPopoverController.h; sourceTree = "<group>"; };
+		0FD1B061189782DE0053034B /* WYPopoverController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPopoverController.m; sourceTree = "<group>"; };
+		0FD1B062189782DE0053034B /* WYStoryboardPopoverSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYStoryboardPopoverSegue.h; sourceTree = "<group>"; };
+		0FD1B063189782DE0053034B /* WYStoryboardPopoverSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYStoryboardPopoverSegue.m; sourceTree = "<group>"; };
+		0FD1B066189785EB0053034B /* SemesterDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemesterDetailsViewController.h; sourceTree = "<group>"; };
+		0FD1B067189785EB0053034B /* SemesterDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemesterDetailsViewController.m; sourceTree = "<group>"; };
+		0FD1B069189788F00053034B /* semester_detail_folder */ = {isa = PBXFileReference; lastKnownFileType = file; path = semester_detail_folder; sourceTree = "<group>"; };
+		0FD1B06B18978AAA0053034B /* semester_detail_textfield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_detail_textfield.png; sourceTree = "<group>"; };
+		0FD1B073189796FD0053034B /* SemesterNoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemesterNoCell.h; sourceTree = "<group>"; };
+		0FD1B074189796FD0053034B /* SemesterNoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemesterNoCell.m; sourceTree = "<group>"; };
+		0FD1B07618979A9A0053034B /* semester_like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = semester_like.png; sourceTree = "<group>"; };
 		CD0F950217D817320050BEAA /* iStudent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iStudent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0F950517D817320050BEAA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CD0F950717D817320050BEAA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +244,68 @@
 		CD0F952C17D817320050BEAA /* iStudentTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iStudentTests-Info.plist"; sourceTree = "<group>"; };
 		CD0F952E17D817320050BEAA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CD0F953017D817320050BEAA /* iStudentTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iStudentTests.m; sourceTree = "<group>"; };
+		CD0F953E17D818AE0050BEAA /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		CD0F954217D81A5E0050BEAA /* PrettyDrawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrettyDrawing.h; sourceTree = "<group>"; };
+		CD0F954317D81A5E0050BEAA /* PrettyDrawing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrettyDrawing.m; sourceTree = "<group>"; };
+		CD0F954417D81A5E0050BEAA /* PrettyKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrettyKit.h; sourceTree = "<group>"; };
+		CD0F954517D81A5E0050BEAA /* PrettyNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrettyNavigationBar.h; sourceTree = "<group>"; };
+		CD0F954617D81A5E0050BEAA /* PrettyNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrettyNavigationBar.m; sourceTree = "<group>"; };
+		CD0F954D17D820240050BEAA /* ECSlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ECSlidingViewController.h; sourceTree = "<group>"; };
+		CD0F954E17D820240050BEAA /* ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingViewController.m; sourceTree = "<group>"; };
+		CD0F955117D8211E0050BEAA /* LeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuViewController.h; sourceTree = "<group>"; };
+		CD0F955217D8211E0050BEAA /* LeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuViewController.m; sourceTree = "<group>"; };
+		CD0F955417D821E60050BEAA /* InitialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitialViewController.h; sourceTree = "<group>"; };
+		CD0F955517D821E60050BEAA /* InitialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InitialViewController.m; sourceTree = "<group>"; };
+		CD0F955E17D823B60050BEAA /* UIImage+ImageWithUIView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageWithUIView.h"; sourceTree = "<group>"; };
+		CD0F955F17D823B60050BEAA /* UIImage+ImageWithUIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageWithUIView.m"; sourceTree = "<group>"; };
+		CD0F956617D8320A0050BEAA /* LeftMenuCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuCell.h; sourceTree = "<group>"; };
+		CD0F956717D8320A0050BEAA /* LeftMenuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuCell.m; sourceTree = "<group>"; };
+		CD0F958117D845B80050BEAA /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		CD1B0370180F8A31005A81BE /* weather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weather.png; sourceTree = "<group>"; };
+		CD1B0372180F8A8F005A81BE /* grade.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grade.png; sourceTree = "<group>"; };
+		CD1B0374180F8B10005A81BE /* travel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = travel.png; sourceTree = "<group>"; };
+		CD38AB4217FA630C00499D04 /* toolbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar.png; sourceTree = "<group>"; };
+		CD38AB4317FA630C00499D04 /* toolbar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toolbar@2x.png"; sourceTree = "<group>"; };
+		CD38AB4617FA63FE00499D04 /* transpBlack50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = transpBlack50.png; sourceTree = "<group>"; };
+		CD38AB4817FA64E600499D04 /* transpBlack25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = transpBlack25.png; sourceTree = "<group>"; };
+		CD3DF86617DCFF44006E7BE6 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		CD3DF86717DCFF44006E7BE6 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		CD487B3718010F580026557F /* table_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = table_bg.png; sourceTree = "<group>"; };
+		CD487B3818010F580026557F /* table_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "table_bg@2x.png"; sourceTree = "<group>"; };
+		CD487B3B1801119B0026557F /* nav_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nav_bg.png; sourceTree = "<group>"; };
+		CD487B3C1801119B0026557F /* nav_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nav_bg@2x.png"; sourceTree = "<group>"; };
+		CD5BDCAC17D96B2800025F3E /* bills.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bills.png; sourceTree = "<group>"; };
+		CD5BDCAE17D96E0900025F3E /* budget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = budget.png; sourceTree = "<group>"; };
+		CD5BDCB217D973A500025F3E /* life_calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = life_calendar.png; sourceTree = "<group>"; };
+		CD5BDCB417D9740300025F3E /* to_do_list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = to_do_list.png; sourceTree = "<group>"; };
+		CD5BDCB817D974DF00025F3E /* journal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = journal.png; sourceTree = "<group>"; };
+		CD5BDCBA17D975FF00025F3E /* shopping.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shopping.png; sourceTree = "<group>"; };
+		CD5BDCBC17D9760700025F3E /* reports.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reports.png; sourceTree = "<group>"; };
+		CD5BDCBE17D9783300025F3E /* course.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = course.png; sourceTree = "<group>"; };
+		CD5BDCC017D9783800025F3E /* terms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = terms.png; sourceTree = "<group>"; };
+		CD5BDCC817D9799100025F3E /* schedule.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = schedule.png; sourceTree = "<group>"; };
+		CD5BDCCC17D979DB00025F3E /* homework.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homework.png; sourceTree = "<group>"; };
+		CD5BDCCF17D9800A00025F3E /* iStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iStudent.h; sourceTree = "<group>"; };
+		CD5BDCD017D9800A00025F3E /* iStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iStudent.m; sourceTree = "<group>"; };
+		CD5BDCD617D9882F00025F3E /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		CD5BDCD717D9882F00025F3E /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background@2x.png"; sourceTree = "<group>"; };
+		CD84A5FE17DEBD150030295A /* calendarCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendarCircle.png; sourceTree = "<group>"; };
+		CD84A5FF17DEBD150030295A /* calendarCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "calendarCircle@2x.png"; sourceTree = "<group>"; };
+		CD898DEE17EA8F0300507971 /* bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookmark.png; sourceTree = "<group>"; };
+		CD898DF017EA8FA000507971 /* refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refresh.png; sourceTree = "<group>"; };
+		CD898DF217EA91A300507971 /* forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forward.png; sourceTree = "<group>"; };
+		CD898DF417EA91C700507971 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		CD9A87B517DEAB730016009B /* CKCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKCalendarView.h; sourceTree = "<group>"; };
+		CD9A87B617DEAB730016009B /* CKCalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CKCalendarView.m; sourceTree = "<group>"; };
+		CD9EFD4B181F415A00EF6492 /* setLocation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setLocation.png; sourceTree = "<group>"; };
+		CD9EFD4C181F415A00EF6492 /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
+		CDAE14B21818A3A60071F8A5 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = "<group>"; };
+		CDAE14B41818AD0A0071F8A5 /* transpBlack75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = transpBlack75.png; sourceTree = "<group>"; };
+		CDAE14C41818BBC80071F8A5 /* WebServiceObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebServiceObject.h; sourceTree = "<group>"; };
+		CDAE14C51818BBC80071F8A5 /* WebServiceObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebServiceObject.m; sourceTree = "<group>"; };
+		CDAE816517DD84B60086BA3A /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
+		CDAE816617DD84B60086BA3A /* check@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check@2x.png"; sourceTree = "<group>"; };
+		CDB01A21181A123C00060A42 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +313,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDB01A22181A123C00060A42 /* CoreLocation.framework in Frameworks */,
 				CD0F950817D817320050BEAA /* CoreGraphics.framework in Frameworks */,
 				CD0F950C17D817320050BEAA /* CoreData.framework in Frameworks */,
 				CD0F950A17D817320050BEAA /* UIKit.framework in Frameworks */,
@@ -81,6 +335,167 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F1BEBCE1898394600BD5D8D /* DJKeyboard */ = {
+			isa = PBXGroup;
+			children = (
+				0F1BEBCF1898397C00BD5D8D /* DJKeyboard.h */,
+				0F1BEBD01898397C00BD5D8D /* DJKeyboard.m */,
+				0F1BEC1718985E7000BD5D8D /* DJDataPicker.h */,
+				0F1BEC1818985E7000BD5D8D /* DJDataPicker.m */,
+			);
+			name = DJKeyboard;
+			sourceTree = "<group>";
+		};
+		0F23BD1E189A17C500F4A69A /* Courses */ = {
+			isa = PBXGroup;
+			children = (
+				0F23BD1F189A17DF00F4A69A /* courses_checked.png */,
+				0F23BD20189A17DF00F4A69A /* courses_unchecked.png */,
+			);
+			name = Courses;
+			sourceTree = "<group>";
+		};
+		0F25E4D31898E88400C599D4 /* Courses */ = {
+			isa = PBXGroup;
+			children = (
+				0F25E4D71898EA1300C599D4 /* Courses Cell */,
+				0F25E4D41898E89E00C599D4 /* CoursesViewController.h */,
+				0F25E4D51898E89E00C599D4 /* CoursesViewController.m */,
+				0F23BD23189A28A400F4A69A /* CoursesDetailsViewController.h */,
+				0F23BD24189A28A400F4A69A /* CoursesDetailsViewController.m */,
+			);
+			name = Courses;
+			sourceTree = "<group>";
+		};
+		0F25E4D71898EA1300C599D4 /* Courses Cell */ = {
+			isa = PBXGroup;
+			children = (
+				0F25E4D81898EA3500C599D4 /* CoursesCell.h */,
+				0F25E4D91898EA3500C599D4 /* CoursesCell.m */,
+			);
+			name = "Courses Cell";
+			sourceTree = "<group>";
+		};
+		0F3C9A4618926208003D71E0 /* Semesters */ = {
+			isa = PBXGroup;
+			children = (
+				0F8EDFAD18963FEF006D990C /* Semester Cell */,
+				0F3C9A471892624D003D71E0 /* SemesterViewController.h */,
+				0F3C9A481892624D003D71E0 /* SemesterViewController.m */,
+				0FD1B066189785EB0053034B /* SemesterDetailsViewController.h */,
+				0FD1B067189785EB0053034B /* SemesterDetailsViewController.m */,
+			);
+			name = Semesters;
+			sourceTree = "<group>";
+		};
+		0F56C1831893852F00A24981 /* Calendar Images */ = {
+			isa = PBXGroup;
+			children = (
+				0F3C9A541892757E003D71E0 /* shadow.png */,
+				0F3C9A52189273FB003D71E0 /* bg.png */,
+				0F56C19D18939C4A00A24981 /* dates_bg.png */,
+				0F56C199189397E500A24981 /* calendar_bg.png */,
+				0F3C9A56189276F3003D71E0 /* up_bg.png */,
+				0FB6C6001893353700775EF2 /* month_bg.png */,
+				0F56C1811893852400A24981 /* right_arrow.png */,
+				0FB6C6021893365B00775EF2 /* right_arrow@2x.png */,
+				0F56C17F189384F400A24981 /* left_arrow.png */,
+				0FB6C6031893365B00775EF2 /* left_arrow@2x.png */,
+				0FC629E8189344A300D08617 /* bottom_bg.png */,
+				0FC629E61893447000D08617 /* bottom_bg@2x.png */,
+				0FC629EC189345B800D08617 /* calendar_divider.png */,
+				0FC629EA1893459B00D08617 /* calendar_divider@2x.png */,
+				0F56C18818938D0C00A24981 /* free.png */,
+				0F56C195189393D600A24981 /* busy.png */,
+				0F56C18A18938D0C00A24981 /* today.png */,
+				0F56C19B18939A3700A24981 /* busy_dates.png */,
+			);
+			name = "Calendar Images";
+			sourceTree = "<group>";
+		};
+		0F56C18E1893905700A24981 /* Calendar Cell */ = {
+			isa = PBXGroup;
+			children = (
+				0F56C18F1893907500A24981 /* CalendarCell.h */,
+				0F56C1901893907500A24981 /* CalendarCell.m */,
+			);
+			name = "Calendar Cell";
+			sourceTree = "<group>";
+		};
+		0F56C19F1893A5F400A24981 /* Calendar Helps */ = {
+			isa = PBXGroup;
+			children = (
+				0F56C1A01893A60700A24981 /* NSDate+Reporting.h */,
+				0F56C1A11893A60700A24981 /* NSDate+Reporting.m */,
+			);
+			name = "Calendar Helps";
+			sourceTree = "<group>";
+		};
+		0F8EDFA618963D04006D990C /* Semester */ = {
+			isa = PBXGroup;
+			children = (
+				0F25E4DB1898EDC700C599D4 /* semester_detail.png */,
+				0FD1B06B18978AAA0053034B /* semester_detail_textfield.png */,
+				0F21D21B18975EC100AAA8C4 /* semester_bg.png */,
+				0F21D2311897725B00AAA8C4 /* semester_cell_bg.png */,
+				0F25E4D11898DE7200C599D4 /* semester_clip.png */,
+				0FD1B07618979A9A0053034B /* semester_like.png */,
+				0FD1B0571897794F0053034B /* semester_more.png */,
+				0FD1B05D18977E550053034B /* semester_expand.png */,
+				0F21D2351897745100AAA8C4 /* semester_bookmark.png */,
+				0FD1B069189788F00053034B /* semester_detail_folder */,
+				0F21D2331897732F00AAA8C4 /* semester_info.png */,
+				0FD1B05918977A930053034B /* semester_edit_lock.png */,
+				0FD1B05A18977A930053034B /* semester_edit_open.png */,
+				0F21D21F1897643500AAA8C4 /* semester_separator.png */,
+				0F418C831896549A00E524C9 /* semester_add_button.png */,
+				0F8EDFA718963D0C006D990C /* semester_bottom_bg.png */,
+				0F8EDFA918963DB0006D990C /* semester_horizontal_bar.png */,
+				0F8EDFAB18963EF1006D990C /* semester_red_bar.png */,
+				0F418C85189655EF00E524C9 /* semester_blue_bar.png */,
+				0F418C86189655EF00E524C9 /* semester_green_bar.png */,
+				0F418C811896535800E524C9 /* semester_trans_bg.png */,
+				0F418C891896599700E524C9 /* semester_4_bg.png */,
+				0F418C8A1896599700E524C9 /* semester_2_bg.png */,
+				0F418C8B1896599700E524C9 /* semester_3_bg.png */,
+				0F418C8C1896599700E524C9 /* semester_1_bg.png */,
+			);
+			name = Semester;
+			sourceTree = "<group>";
+		};
+		0F8EDFAD18963FEF006D990C /* Semester Cell */ = {
+			isa = PBXGroup;
+			children = (
+				0F8EDFAE18964015006D990C /* SemesterCell.h */,
+				0F8EDFAF18964015006D990C /* SemesterCell.m */,
+				0FD1B073189796FD0053034B /* SemesterNoCell.h */,
+				0FD1B074189796FD0053034B /* SemesterNoCell.m */,
+			);
+			name = "Semester Cell";
+			sourceTree = "<group>";
+		};
+		0FB6C5F818932E9800775EF2 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				0F56C19F1893A5F400A24981 /* Calendar Helps */,
+				0F56C18E1893905700A24981 /* Calendar Cell */,
+				0FB6C5F918932EAF00775EF2 /* CalendarViewController.h */,
+				0FB6C5FA18932EAF00775EF2 /* CalendarViewController.m */,
+			);
+			name = Calendar;
+			sourceTree = "<group>";
+		};
+		0FD1B05F189782DE0053034B /* WYPopoverController */ = {
+			isa = PBXGroup;
+			children = (
+				0FD1B060189782DE0053034B /* WYPopoverController.h */,
+				0FD1B061189782DE0053034B /* WYPopoverController.m */,
+				0FD1B062189782DE0053034B /* WYStoryboardPopoverSegue.h */,
+				0FD1B063189782DE0053034B /* WYStoryboardPopoverSegue.m */,
+			);
+			path = WYPopoverController;
+			sourceTree = "<group>";
+		};
 		CD0F94F917D817320050BEAA = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +518,7 @@
 		CD0F950417D817320050BEAA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				CDB01A21181A123C00060A42 /* CoreLocation.framework */,
 				CD0F950517D817320050BEAA /* Foundation.framework */,
 				CD0F950717D817320050BEAA /* CoreGraphics.framework */,
 				CD0F950917D817320050BEAA /* UIKit.framework */,
@@ -115,10 +531,12 @@
 		CD0F950D17D817320050BEAA /* iStudent */ = {
 			isa = PBXGroup;
 			children = (
-				CD0F951617D817320050BEAA /* AppDelegate.h */,
-				CD0F951717D817320050BEAA /* AppDelegate.m */,
+				CD0F953A17D817660050BEAA /* AppDelegate */,
+				CD0F953B17D817730050BEAA /* ViewControllers */,
+				CD3DF86917DD010C006E7BE6 /* Core Data */,
+				CD0F954017D819FE0050BEAA /* Utilities */,
+				CD0F956117D8317D0050BEAA /* Images */,
 				CD0F951C17D817320050BEAA /* Images.xcassets */,
-				CD0F951917D817320050BEAA /* iStudent.xcdatamodeld */,
 				CD0F950E17D817320050BEAA /* Supporting Files */,
 			);
 			path = iStudent;
@@ -151,6 +569,231 @@
 				CD0F952D17D817320050BEAA /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CD0F953A17D817660050BEAA /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F951617D817320050BEAA /* AppDelegate.h */,
+				CD0F951717D817320050BEAA /* AppDelegate.m */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		CD0F953B17D817730050BEAA /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				CD5BDCCE17D97FEE00025F3E /* iStudent Class */,
+				CD0F953D17D818990050BEAA /* Storyboard */,
+				CD0F953C17D8188D0050BEAA /* InitialViewController */,
+				CDC1F22B18132E7000B5D036 /* Class Section */,
+				CDC1F22C18132E8300B5D036 /* Life Section */,
+				CDC1F22D18132E9E00B5D036 /* Bills Section */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		CD0F953C17D8188D0050BEAA /* InitialViewController */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F955417D821E60050BEAA /* InitialViewController.h */,
+				CD0F955517D821E60050BEAA /* InitialViewController.m */,
+			);
+			name = InitialViewController;
+			sourceTree = "<group>";
+		};
+		CD0F953D17D818990050BEAA /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F953E17D818AE0050BEAA /* Storyboard.storyboard */,
+			);
+			name = Storyboard;
+			sourceTree = "<group>";
+		};
+		CD0F954017D819FE0050BEAA /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				0F1BEBCE1898394600BD5D8D /* DJKeyboard */,
+				0FD1B05F189782DE0053034B /* WYPopoverController */,
+				CD9A87B417DEAB4F0016009B /* CKCalendarView */,
+				CD3DF86517DCFF2D006E7BE6 /* Hud Class */,
+				CD0F955017D820F60050BEAA /* Left Sliding Menu */,
+				CD0F954C17D820010050BEAA /* ECSlidingViewController */,
+				CD0F954117D81A2E0050BEAA /* Pretty Navigation Bar */,
+				CDAE14C01818B8C30071F8A5 /* Web Service */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		CD0F954117D81A2E0050BEAA /* Pretty Navigation Bar */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F954217D81A5E0050BEAA /* PrettyDrawing.h */,
+				CD0F954317D81A5E0050BEAA /* PrettyDrawing.m */,
+				CD0F954417D81A5E0050BEAA /* PrettyKit.h */,
+				CD0F954517D81A5E0050BEAA /* PrettyNavigationBar.h */,
+				CD0F954617D81A5E0050BEAA /* PrettyNavigationBar.m */,
+			);
+			name = "Pretty Navigation Bar";
+			sourceTree = "<group>";
+		};
+		CD0F954C17D820010050BEAA /* ECSlidingViewController */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F955E17D823B60050BEAA /* UIImage+ImageWithUIView.h */,
+				CD0F955F17D823B60050BEAA /* UIImage+ImageWithUIView.m */,
+				CD0F954D17D820240050BEAA /* ECSlidingViewController.h */,
+				CD0F954E17D820240050BEAA /* ECSlidingViewController.m */,
+			);
+			name = ECSlidingViewController;
+			sourceTree = "<group>";
+		};
+		CD0F955017D820F60050BEAA /* Left Sliding Menu */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F956617D8320A0050BEAA /* LeftMenuCell.h */,
+				CD0F956717D8320A0050BEAA /* LeftMenuCell.m */,
+				CD0F955117D8211E0050BEAA /* LeftMenuViewController.h */,
+				CD0F955217D8211E0050BEAA /* LeftMenuViewController.m */,
+			);
+			name = "Left Sliding Menu";
+			sourceTree = "<group>";
+		};
+		CD0F956117D8317D0050BEAA /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0F8EDFA618963D04006D990C /* Semester */,
+				0F56C1831893852F00A24981 /* Calendar Images */,
+				0F23BD1E189A17C500F4A69A /* Courses */,
+				CD487B3718010F580026557F /* table_bg.png */,
+				CD487B3818010F580026557F /* table_bg@2x.png */,
+				CD487B3B1801119B0026557F /* nav_bg.png */,
+				CD487B3C1801119B0026557F /* nav_bg@2x.png */,
+				CDAE14B41818AD0A0071F8A5 /* transpBlack75.png */,
+				CD38AB4617FA63FE00499D04 /* transpBlack50.png */,
+				CD38AB4817FA64E600499D04 /* transpBlack25.png */,
+				CD38AB4217FA630C00499D04 /* toolbar.png */,
+				CD38AB4317FA630C00499D04 /* toolbar@2x.png */,
+				CD5BDCC017D9783800025F3E /* terms.png */,
+				CD5BDCBE17D9783300025F3E /* course.png */,
+				CD5BDCC817D9799100025F3E /* schedule.png */,
+				CD5BDCCC17D979DB00025F3E /* homework.png */,
+				CD1B0372180F8A8F005A81BE /* grade.png */,
+				CD0F958117D845B80050BEAA /* settings.png */,
+				CD5BDCB217D973A500025F3E /* life_calendar.png */,
+				CD1B0370180F8A31005A81BE /* weather.png */,
+				CD1B0374180F8B10005A81BE /* travel.png */,
+				CD5BDCB417D9740300025F3E /* to_do_list.png */,
+				CD5BDCB817D974DF00025F3E /* journal.png */,
+				CD5BDCBA17D975FF00025F3E /* shopping.png */,
+				CD5BDCAC17D96B2800025F3E /* bills.png */,
+				CD5BDCAE17D96E0900025F3E /* budget.png */,
+				CD5BDCBC17D9760700025F3E /* reports.png */,
+				CD5BDCD617D9882F00025F3E /* background.png */,
+				CD5BDCD717D9882F00025F3E /* background@2x.png */,
+				CDAE816517DD84B60086BA3A /* check.png */,
+				CDAE816617DD84B60086BA3A /* check@2x.png */,
+				CD84A5FE17DEBD150030295A /* calendarCircle.png */,
+				CD84A5FF17DEBD150030295A /* calendarCircle@2x.png */,
+				CD898DF417EA91C700507971 /* back.png */,
+				CD898DF217EA91A300507971 /* forward.png */,
+				CD898DEE17EA8F0300507971 /* bookmark.png */,
+				CD898DF017EA8FA000507971 /* refresh.png */,
+				CDAE14B21818A3A60071F8A5 /* cloud.png */,
+				CD9EFD4B181F415A00EF6492 /* setLocation.png */,
+				CD9EFD4C181F415A00EF6492 /* location.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		CD3DF86517DCFF2D006E7BE6 /* Hud Class */ = {
+			isa = PBXGroup;
+			children = (
+				CD3DF86617DCFF44006E7BE6 /* MBProgressHUD.h */,
+				CD3DF86717DCFF44006E7BE6 /* MBProgressHUD.m */,
+			);
+			name = "Hud Class";
+			sourceTree = "<group>";
+		};
+		CD3DF86917DD010C006E7BE6 /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				CD0F951917D817320050BEAA /* iStudent.xcdatamodeld */,
+				0F1BEBC818982AF400BD5D8D /* Calendar.h */,
+				0F1BEBC918982AF400BD5D8D /* Calendar.m */,
+				0F33D721189C768100862440 /* Semester.h */,
+				0F33D722189C768100862440 /* Semester.m */,
+				0F33D71E189C768100862440 /* Courses.h */,
+				0F33D71F189C768100862440 /* Courses.m */,
+			);
+			name = "Core Data";
+			sourceTree = "<group>";
+		};
+		CD5BDCCE17D97FEE00025F3E /* iStudent Class */ = {
+			isa = PBXGroup;
+			children = (
+				CD5BDCCF17D9800A00025F3E /* iStudent.h */,
+				CD5BDCD017D9800A00025F3E /* iStudent.m */,
+			);
+			name = "iStudent Class";
+			sourceTree = "<group>";
+		};
+		CD9A87B417DEAB4F0016009B /* CKCalendarView */ = {
+			isa = PBXGroup;
+			children = (
+				CD9A87B517DEAB730016009B /* CKCalendarView.h */,
+				CD9A87B617DEAB730016009B /* CKCalendarView.m */,
+			);
+			name = CKCalendarView;
+			sourceTree = "<group>";
+		};
+		CDAE14AB18189D620071F8A5 /* Weather */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Weather;
+			sourceTree = "<group>";
+		};
+		CDAE14C01818B8C30071F8A5 /* Web Service */ = {
+			isa = PBXGroup;
+			children = (
+				CDAE14C41818BBC80071F8A5 /* WebServiceObject.h */,
+				CDAE14C51818BBC80071F8A5 /* WebServiceObject.m */,
+			);
+			name = "Web Service";
+			sourceTree = "<group>";
+		};
+		CDC1F22A18132E3100B5D036 /* Travel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Travel;
+			sourceTree = "<group>";
+		};
+		CDC1F22B18132E7000B5D036 /* Class Section */ = {
+			isa = PBXGroup;
+			children = (
+				0F3C9A4618926208003D71E0 /* Semesters */,
+				0F25E4D31898E88400C599D4 /* Courses */,
+				0FB6C5F818932E9800775EF2 /* Calendar */,
+			);
+			name = "Class Section";
+			sourceTree = "<group>";
+		};
+		CDC1F22C18132E8300B5D036 /* Life Section */ = {
+			isa = PBXGroup;
+			children = (
+				CDC1F22A18132E3100B5D036 /* Travel */,
+				CDAE14AB18189D620071F8A5 /* Weather */,
+			);
+			name = "Life Section";
+			sourceTree = "<group>";
+		};
+		CDC1F22D18132E9E00B5D036 /* Bills Section */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Bills Section";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,8 +871,91 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F56C19A189397E500A24981 /* calendar_bg.png in Resources */,
+				0F23BD22189A17DF00F4A69A /* courses_unchecked.png in Resources */,
+				0F21D2361897745100AAA8C4 /* semester_bookmark.png in Resources */,
+				0FB6C6051893365B00775EF2 /* left_arrow@2x.png in Resources */,
+				CD487B3918010F580026557F /* table_bg.png in Resources */,
+				CD5BDCCD17D979DB00025F3E /* homework.png in Resources */,
+				CD1B0373180F8A8F005A81BE /* grade.png in Resources */,
+				CD38AB4717FA63FE00499D04 /* transpBlack50.png in Resources */,
+				0F21D2321897725B00AAA8C4 /* semester_cell_bg.png in Resources */,
+				0F21D21C18975EC100AAA8C4 /* semester_bg.png in Resources */,
+				0F418C88189655EF00E524C9 /* semester_green_bar.png in Resources */,
+				0F3C9A551892757E003D71E0 /* shadow.png in Resources */,
+				0F21D2201897643500AAA8C4 /* semester_separator.png in Resources */,
+				CD9EFD4E181F415A00EF6492 /* location.png in Resources */,
+				0F56C19C18939A3700A24981 /* busy_dates.png in Resources */,
+				CD84A60017DEBD150030295A /* calendarCircle.png in Resources */,
+				CD5BDCB917D974DF00025F3E /* journal.png in Resources */,
+				0F3C9A57189276F3003D71E0 /* up_bg.png in Resources */,
+				CD5BDCD817D9882F00025F3E /* background.png in Resources */,
+				0F56C1821893852400A24981 /* right_arrow.png in Resources */,
+				0F8EDFAC18963EF1006D990C /* semester_red_bar.png in Resources */,
+				0F21D2341897732F00AAA8C4 /* semester_info.png in Resources */,
+				0F56C19E18939C4A00A24981 /* dates_bg.png in Resources */,
+				CD898DF517EA91C700507971 /* back.png in Resources */,
+				0F3C9A53189273FB003D71E0 /* bg.png in Resources */,
+				0F56C196189393D600A24981 /* busy.png in Resources */,
+				CD5BDCBB17D975FF00025F3E /* shopping.png in Resources */,
+				CD5BDCAF17D96E0900025F3E /* budget.png in Resources */,
+				0F418C901896599700E524C9 /* semester_1_bg.png in Resources */,
+				0F25E4DC1898EDC700C599D4 /* semester_detail.png in Resources */,
+				0FB6C6011893353700775EF2 /* month_bg.png in Resources */,
+				0FD1B06A189788F00053034B /* semester_detail_folder in Resources */,
 				CD0F951217D817320050BEAA /* InfoPlist.strings in Resources */,
 				CD0F951D17D817320050BEAA /* Images.xcassets in Resources */,
+				0FC629ED189345B800D08617 /* calendar_divider.png in Resources */,
+				0FB6C6041893365B00775EF2 /* right_arrow@2x.png in Resources */,
+				0F418C8D1896599700E524C9 /* semester_4_bg.png in Resources */,
+				0FD1B0581897794F0053034B /* semester_more.png in Resources */,
+				0FC629E71893447000D08617 /* bottom_bg@2x.png in Resources */,
+				CD5BDCC117D9783800025F3E /* terms.png in Resources */,
+				0F418C8F1896599700E524C9 /* semester_3_bg.png in Resources */,
+				CD5BDCAD17D96B2800025F3E /* bills.png in Resources */,
+				CD1B0371180F8A31005A81BE /* weather.png in Resources */,
+				CDAE816717DD84B60086BA3A /* check.png in Resources */,
+				CDAE14B31818A3A60071F8A5 /* cloud.png in Resources */,
+				0F56C18D18938D0C00A24981 /* today.png in Resources */,
+				CD5BDCD917D9882F00025F3E /* background@2x.png in Resources */,
+				0F56C18B18938D0C00A24981 /* free.png in Resources */,
+				CD0F958217D845B80050BEAA /* settings.png in Resources */,
+				0F56C180189384F400A24981 /* left_arrow.png in Resources */,
+				CDAE14B51818AD0A0071F8A5 /* transpBlack75.png in Resources */,
+				0FD1B05C18977A930053034B /* semester_edit_open.png in Resources */,
+				0FD1B06C18978AAA0053034B /* semester_detail_textfield.png in Resources */,
+				CD5BDCBF17D9783300025F3E /* course.png in Resources */,
+				CD5BDCB317D973A500025F3E /* life_calendar.png in Resources */,
+				CDAE816817DD84B60086BA3A /* check@2x.png in Resources */,
+				CD487B3E1801119B0026557F /* nav_bg@2x.png in Resources */,
+				CD898DF117EA8FA000507971 /* refresh.png in Resources */,
+				CD898DEF17EA8F0300507971 /* bookmark.png in Resources */,
+				0FD1B05B18977A930053034B /* semester_edit_lock.png in Resources */,
+				CD38AB4917FA64E600499D04 /* transpBlack25.png in Resources */,
+				0F23BD21189A17DF00F4A69A /* courses_checked.png in Resources */,
+				CD5BDCBD17D9760700025F3E /* reports.png in Resources */,
+				0FC629E9189344A300D08617 /* bottom_bg.png in Resources */,
+				0FD1B05E18977E550053034B /* semester_expand.png in Resources */,
+				CD5BDCB517D9740300025F3E /* to_do_list.png in Resources */,
+				0F418C821896535800E524C9 /* semester_trans_bg.png in Resources */,
+				CD487B3A18010F580026557F /* table_bg@2x.png in Resources */,
+				CD38AB4417FA630C00499D04 /* toolbar.png in Resources */,
+				0FD1B07718979A9A0053034B /* semester_like.png in Resources */,
+				CD84A60117DEBD150030295A /* calendarCircle@2x.png in Resources */,
+				0F418C8E1896599700E524C9 /* semester_2_bg.png in Resources */,
+				CD898DF317EA91A300507971 /* forward.png in Resources */,
+				0FC629EB1893459B00D08617 /* calendar_divider@2x.png in Resources */,
+				0F418C841896549A00E524C9 /* semester_add_button.png in Resources */,
+				CD5BDCC917D9799100025F3E /* schedule.png in Resources */,
+				CD0F953F17D818AE0050BEAA /* Storyboard.storyboard in Resources */,
+				CD38AB4517FA630C00499D04 /* toolbar@2x.png in Resources */,
+				0F8EDFAA18963DB0006D990C /* semester_horizontal_bar.png in Resources */,
+				CD487B3D1801119B0026557F /* nav_bg.png in Resources */,
+				0F25E4D21898DE7200C599D4 /* semester_clip.png in Resources */,
+				CD1B0375180F8B10005A81BE /* travel.png in Resources */,
+				0F418C87189655EF00E524C9 /* semester_blue_bar.png in Resources */,
+				CD9EFD4D181F415A00EF6492 /* setLocation.png in Resources */,
+				0F8EDFA818963D0C006D990C /* semester_bottom_bg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,9 +974,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDAE14C61818BBC80071F8A5 /* WebServiceObject.m in Sources */,
+				0F25E4DA1898EA3500C599D4 /* CoursesCell.m in Sources */,
+				0F25E4D61898E89E00C599D4 /* CoursesViewController.m in Sources */,
+				0F1BEC1918985E7000BD5D8D /* DJDataPicker.m in Sources */,
+				0F23BD25189A28A400F4A69A /* CoursesDetailsViewController.m in Sources */,
+				0F1BEBCA18982AF400BD5D8D /* Calendar.m in Sources */,
+				CD5BDCD117D9800A00025F3E /* iStudent.m in Sources */,
+				0FD1B064189782DE0053034B /* WYPopoverController.m in Sources */,
+				CD9A87B817DEAB730016009B /* CKCalendarView.m in Sources */,
 				CD0F951817D817320050BEAA /* AppDelegate.m in Sources */,
+				0FB6C5FB18932EAF00775EF2 /* CalendarViewController.m in Sources */,
+				CD0F956817D8320A0050BEAA /* LeftMenuCell.m in Sources */,
+				0FD1B075189796FD0053034B /* SemesterNoCell.m in Sources */,
 				CD0F951417D817320050BEAA /* main.m in Sources */,
+				CD0F955317D8211E0050BEAA /* LeftMenuViewController.m in Sources */,
+				0FD1B065189782DE0053034B /* WYStoryboardPopoverSegue.m in Sources */,
+				CD3DF86817DCFF44006E7BE6 /* MBProgressHUD.m in Sources */,
+				0F33D723189C768100862440 /* Semester.m in Sources */,
+				CD0F955617D821E60050BEAA /* InitialViewController.m in Sources */,
+				0F3C9A491892624D003D71E0 /* SemesterViewController.m in Sources */,
+				0F56C1A21893A60700A24981 /* NSDate+Reporting.m in Sources */,
+				0F8EDFB018964015006D990C /* SemesterCell.m in Sources */,
+				CD0F954F17D820240050BEAA /* ECSlidingViewController.m in Sources */,
+				0F33D720189C768100862440 /* Courses.m in Sources */,
+				CD0F954717D81A5E0050BEAA /* PrettyDrawing.m in Sources */,
+				CD0F954817D81A5E0050BEAA /* PrettyNavigationBar.m in Sources */,
+				0F56C1911893907500A24981 /* CalendarCell.m in Sources */,
+				0FD1B068189785EB0053034B /* SemesterDetailsViewController.m in Sources */,
 				CD0F951B17D817320050BEAA /* iStudent.xcdatamodeld in Sources */,
+				0F1BEBD11898397C00BD5D8D /* DJKeyboard.m in Sources */,
+				CD0F956017D823B60050BEAA /* UIImage+ImageWithUIView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,6 +1062,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jing Dai (X92MM4X3ME)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -345,6 +1100,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jing Dai (X92MM4X3ME)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -445,6 +1201,7 @@
 				CD0F953617D817320050BEAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD0F953717D817320050BEAA /* Build configuration list for PBXNativeTarget "iStudentTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +1210,7 @@
 				CD0F953917D817320050BEAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
